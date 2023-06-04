@@ -25,7 +25,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ![](ecommerce-sanity.png)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Here is a demo preview of the final project. The techonlogies used to built this ecommerce website are ![Next.js](https://nextjs.org/)
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
