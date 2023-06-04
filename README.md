@@ -27,8 +27,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 Here is a demo preview of the final project. The techonlogies used to built this ecommerce website are:
 
-*React
-*Next.Js
+*React <br/>
+*Next.Js <br/>
 *CSS
 *Stripe
 *Sanity
