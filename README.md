@@ -29,8 +29,8 @@ Here is a demo preview of the final project. The techonlogies used to built this
 
 *React <br/>
 *Next.Js <br/>
-*CSS
-*Stripe
+*CSS <br />
+*Stripe <br/>
 *Sanity
 
 Here's why:
