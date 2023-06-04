@@ -25,7 +25,13 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ![](ecommerce-sanity.png)
 
-Here is a demo preview of the final project. The techonlogies used to built this ecommerce website are * [![Next][Next.js]][https://nextjs.org/]
+Here is a demo preview of the final project. The techonlogies used to built this ecommerce website are:
+
+*React
+*Next.Js
+*CSS
+*Stripe
+*Sanity
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
