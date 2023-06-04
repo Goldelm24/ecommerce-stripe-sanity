@@ -31,7 +31,8 @@ Here is a demo preview of the final project. The techonlogies used to built this
 *Next.Js <br/>
 *CSS <br />
 *Stripe <br/>
-*Sanity
+*Sanity <br/>
+*React-icons 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
