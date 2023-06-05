@@ -46,4 +46,4 @@ The easiest way to deploy a Next.js projectis by using Vercel: <br />
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details about hosting and deployment. 
-Connect with me on ![Linkedin](https://www.linkedin.com/in/josiasguzman/)
+Connect with me on [Linkedin](https://www.linkedin.com/in/josiasguzman/)
