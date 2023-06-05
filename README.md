@@ -5,20 +5,18 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 First, run the development server:
 
-```bash
 1. Cloning
 
    Open your Terminal and copy the command below:
+   ```bash
    clone https://github.com/Goldelm24/ecommerce-stripe-sanity.git
-   
+   ```
 2. Navigate to the project directory: After the repository is cloned, navigate to the project directory using the following command:
    cd ecommerce-stripe-sanity
    
 3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the  project:
 
    npm install
-
-```
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -32,10 +30,7 @@ Libraries/frameworks used for this project:
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br/>
 ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)<br/>
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <br/>
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br />
-*Stripe <br/>
-*Sanity <br/>
-*React-icons 
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br /> 
 
 Here's why:
 * Your time should be focused on creating something amazing. A project that solves a problem and helps others
