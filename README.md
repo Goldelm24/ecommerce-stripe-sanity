@@ -12,6 +12,7 @@ First, run the development server:
    clone https://github.com/Goldelm24/ecommerce-stripe-sanity.git
    ```
 2. Navigate to the project directory: After the repository is cloned, navigate to the project directory using the following command:
+   ```bash
    cd ecommerce-stripe-sanity
    
 3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the  project:
