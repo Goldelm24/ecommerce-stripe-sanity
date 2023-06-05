@@ -5,12 +5,16 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 
 ```bash
-1. Cloning 
+1. Cloning
+
    Open your Terminal and run the github url:
    clone https://github.com/Goldelm24/ecommerce-stripe-sanity.git
+   
 2. Navigate to the project directory: After the repository is cloned, navigate to the project directory using the following command:
    cd ecommerce-stripe-sanity
+   
 3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the      project:
+
    npm install
 
 ```
