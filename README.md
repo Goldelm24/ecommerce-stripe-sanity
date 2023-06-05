@@ -29,10 +29,10 @@ Demo preview.
 
 Libraries/frameworks used for this project:
 
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br/>
 ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)<br/>
-*Next.Js <br/>
-*CSS <br />
+![Next](![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <br/>
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br />
 *Stripe <br/>
 *Sanity <br/>
 *React-icons 
