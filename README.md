@@ -16,7 +16,7 @@ First, run the development server:
    cd ecommerce-stripe-sanity
    
 3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the  project:
-
+   ```bash
    npm install
 
 <!-- ABOUT THE PROJECT -->
