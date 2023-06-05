@@ -34,9 +34,8 @@ Libraries/frameworks used for this project:
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) <br /> 
 
 ##Deployment
-The easiest way to deploy a Next.js project
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <br/>
-is by using Vercel:
+The easiest way to deploy a Next.js project <br/>
+is by using Vercel: <br />
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 Check out [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details about hosting and deployment. 
