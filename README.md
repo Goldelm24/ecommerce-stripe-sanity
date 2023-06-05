@@ -25,9 +25,11 @@ First, run the development server:
 
 ![](ecommerce-sanity.png)
 
-Here is a demo preview of the final project. The techonlogies used to built this ecommerce website are:
+Demo preview. 
 
-*React <br/>
+Libraries/frameworks used for this project:
+
+![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)<br/>
 *Next.Js <br/>
 *CSS <br />
 *Stripe <br/>
