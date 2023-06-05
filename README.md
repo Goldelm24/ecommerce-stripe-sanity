@@ -1,7 +1,16 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
-## Ecommerce Website
+## Full Stack Ecommerce Website
+A fully responsive Modern Full Stack Ecommerce application with payments functionality. With Modern design, animations, the ability to add and edit products on the go using a CMS, all advanced cart functionalities, and most importantly the complete integration with Stripe so that you can cover REAL payments.
+
+* Integration of Stripe to manage payments, products, shipping rates, and the entire checkout process.
+* Manage the entire content of your app using Sanity. Sanity is the unified content platform that’ll make the making of the app possible.
+* Advance cart functionalities.
+* Through Sanity, you or your clients will be able to change the store’s homepage and more importantly, the details of all the products in the store.
+* Sanity allows us to focus on developing the application without having to worry about the content, file storage, and databases.
+
+## To get started
 
 First, run the development server:
 
