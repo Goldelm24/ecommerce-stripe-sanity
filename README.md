@@ -7,7 +7,7 @@ First, run the development server:
 ```bash
 1. Cloning
 
-   Open your Terminal and run the github url:
+   Open your Terminal and copy the command below:
    clone https://github.com/Goldelm24/ecommerce-stripe-sanity.git
    
 2. Navigate to the project directory: After the repository is cloned, navigate to the project directory using the following command:
