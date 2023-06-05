@@ -14,7 +14,7 @@ First, run the development server:
 2. Navigate to the project directory: After the repository is cloned, navigate to the project directory using the following command:
    cd ecommerce-stripe-sanity
    
-3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the      project:
+3. Install dependencies: Once you’re inside the project directory, run the following command to install the dependencies required for the  project:
 
    npm install
 
