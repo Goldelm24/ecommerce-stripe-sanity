@@ -29,6 +29,7 @@ Demo preview.
 
 Libraries/frameworks used for this project:
 
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![react](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black)<br/>
 *Next.Js <br/>
 *CSS <br />
